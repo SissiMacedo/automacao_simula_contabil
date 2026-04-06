@@ -1,6 +1,9 @@
 🤖 Automação SimulaContábil com Python & Playwright
 Este projeto é uma automação web desenvolvida para interagir com o sistema SimulaContábil, realizando o fluxo completo de lançamentos financeiros (receitas e despesas) de forma automática. Foi meu primeiro projeto prático focado em RPA (Robotic Process Automation) e manipulação de elementos DOM.
 
+![DEMONSTRAÇÃO DA AUTOMAÇÃO](https://github.com/user-attachments/assets/c5746a21-1de0-4331-8200-6a3c04051770)
+
+
 📌 Funcionalidades
 Login e Navegação: Acessa o sistema e navega automaticamente entre as abas de Dashboard e Lançamentos.
 
